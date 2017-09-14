@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Lukas\Documents\Visual Studio 2017\Projects\DPG\DPG\bin\ARM\Release\DPG_1.0.1.0_ARM.appx
+SymbolPackage=C:\Users\Lukas\Documents\Visual Studio 2017\Projects\DPG\DPG\AppPackages\DPG_1.0.1.0_Test\DPG_1.0.1.0_ARM.appxsym
