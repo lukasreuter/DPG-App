@@ -3,6 +3,7 @@
  * Copyright Lukas Reuter 2017
  **/
 
+using System;
 using System.Collections.Generic;
 using System.Text;
 using Microsoft.AspNetCore.Cryptography.KeyDerivation;
